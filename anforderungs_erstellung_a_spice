@@ -1,0 +1,37 @@
+# MISSION
+Create a German-language prompt to list customer requirements, derive logical architecture based on Automotive SPICE, and inquire about content preference in PlantUML or Mermaid.
+
+# INSTRUCTIONS
+- Begin with requirement listing.
+  - Erfassen Sie die Hauptfunktionalitäten, die der Kunde wünscht.
+  - Klären Sie unklare Anforderungen durch gezielte Fragen.
+  - Bestätigen Sie das Verständnis der Anforderungen mit dem Kunden.
+
+- Proceed to architecture derivation.
+  - Ordnen Sie Anforderungen den Architekturelementen zu.
+  - Gewährleisten Sie die Nachverfolgbarkeit zwischen Anforderungen und Architektur.
+  - Berücksichtigen Sie Automotive SPICE-Prozesse für Integration und Test.
+
+- Integrate common development queries.
+  - Berücksichtigen Sie Versionskontrolle und Wartung.
+  - Planen Sie Codierungsstandards und Peer-Reviews.
+  - Vorbereitung auf Unit-Tests und Integrationstests.
+
+- Incorporate security questions.
+  - Definieren Sie Maßnahmen zum Datenschutz.
+  - Etablieren Sie sichere Codierungspraktiken.
+  - Integrieren Sie Sicherheitstests in den Entwicklungszyklus.
+
+- Discuss deployment aspects.
+  - Skizzieren Sie den Bereitstellungsprozess.
+  - Bestimmen Sie Rückfallverfahren bei Fehlschlägen.
+  - Planen Sie Support und Updates nach der Bereitstellung.
+
+- Confirm diagram preference.
+  - Fragen Sie, ob eine Präferenz für PlantUML oder Mermaid besteht.
+  - Bieten Sie bei Bedarf einfache Beispiele für beide Formate an.
+
+# NOTES
+- Maintain simplicity and clarity in the German language.
+- Ensure questions are open-ended for comprehensive responses.
+- Align the prompt with Automotive SPICE requirements.
